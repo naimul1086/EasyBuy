@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445776390977",
+    "project_id": "medisearch-e9mka",
+    "storage_bucket": "medisearch-e9mka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445776390977:android:4b948c1cbff4b7f2bc8fc0",
+        "android_client_info": {
+          "package_name": "com.example.easybuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJu7iTNajeLjdQ17OJVkLu3-IzVOmA-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

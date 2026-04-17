@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Brand / Seed color -->
+    <color name="seed">#E94030</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="MainColor">#E94030</color>
+    <color name="stock_green">#01B405</color>
+    <color name="stock_red">#C80909</color>
+
+    <!-- Primary -->
+    <color name="colorPrimary">#E94030</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimaryContainer">#FFDAD6</color>
+    <color name="colorOnPrimaryContainer">#410002</color>
+
+    <!-- Secondary (warm tone, primary থেকে derived) -->
+    <color name="colorSecondary">#775652</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSecondaryContainer">#FFDAD6</color>
+    <color name="colorOnSecondaryContainer">#2C1512</color>
+
+    <!-- Tertiary (neutral accent) -->
+    <color name="colorTertiary">#715B2E</color>
+    <color name="colorOnTertiary">#FFFFFF</color>
+    <color name="colorTertiaryContainer">#FDDFA6</color>
+    <color name="colorOnTertiaryContainer">#261A00</color>
+
+    <!-- Error -->
+    <color name="colorError">#BA1A1A</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorErrorContainer">#FFDAD6</color>
+    <color name="colorOnErrorContainer">#410002</color>
+
+    <!-- Background & Surface -->
+    <color name="colorBackground">#FFF8F7</color>
+    <color name="colorOnBackground">#221918</color>
+    <color name="colorSurface">#FFF8F7</color>
+    <color name="colorOnSurface">#221918</color>
+    <color name="colorSurfaceVariant">#F5DDDA</color>
+    <color name="colorOnSurfaceVariant">#534341</color>
+
+    <!-- Outline -->
+    <color name="colorOutline">#857371</color>
+    <color name="colorOutlineVariant">#D8C2BF</color>
+
+    <!-- Inverse (Snackbar, tooltip এর জন্য) -->
+    <color name="colorInverseSurface">#382E2D</color>
+    <color name="colorInverseOnSurface">#FFEDEB</color>
+    <color name="colorInversePrimary">#FFB4AB</color>
+
+    <!-- Scrim (dialog dim background) -->
+    <color name="colorScrim">#000000</color>
+
+    <!-- Legacy / Toolbar (পুরনো কোডের সাথে compatibility রাখতে) -->
+    <color name="ToolbarColor">#E94030</color>
+    <color name="notif_unread_bg">#F5F7FF</color>
+</resources>
